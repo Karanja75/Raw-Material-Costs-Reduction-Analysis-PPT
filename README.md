@@ -2,6 +2,10 @@
 The PowerPoint presentation titled "RMC Reduction Proposal" by the HUB Team (Catherine Ambaka and Ken Karanja) outlines a strategy to minimize RMC (Raw Material Cost) and overall costs in Hela Intimates EPZ.
 
 ---
+
+📁 [Download RMC Reduction Proposal File](RMC-costs-reduction-proposal.pptx)
+
+---
 ## Presentation Title:  
 **📊 RMC Costs Reduction Proposal**
 
@@ -59,6 +63,4 @@ This data-driven, multi-faceted plan leverages:
 ...to drive down costs and enhance operational performance across the supply chain.
 
 ---
-📁 [Download RMC Reduction Proposal File](RMC-costs-reduction-proposal.pptx)
 
----
