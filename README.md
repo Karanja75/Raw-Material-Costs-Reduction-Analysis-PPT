@@ -59,3 +59,6 @@ This data-driven, multi-faceted plan leverages:
 ...to drive down costs and enhance operational performance across the supply chain.
 
 ---
+📁 [Download RMC Reduction Proposal File](RMC-costs-reduction-proposal.pptx)
+
+---
