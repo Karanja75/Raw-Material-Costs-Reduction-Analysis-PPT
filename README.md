@@ -6,7 +6,7 @@ The PowerPoint presentation titled "RMC Reduction Proposal" by the HUB Team (Cat
 **📊 RMC Costs Reduction Proposal**
 
 ## Prepared By:  
-**HUB Team – *Catherine Ambaka & Ken Karanja***
+***Catherine Ambaka & Ken Karanja***
 
 ---
 
